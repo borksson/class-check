@@ -1,0 +1,1527 @@
+[
+  {
+    "updated": "2020-05-24 14:38:01.114444",
+    "classes": [
+      {
+        "className": "C S 235 (001)  - Data Structures",
+        "assignments": [
+          {
+            "title": "Getting Started Quiz",
+            "dueDate": "2020-04-28 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Linux/Bash Quickstart",
+            "dueDate": "2020-04-28 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Setting up your programming environment",
+            "dueDate": "2020-04-28 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Start of Semester Survey",
+            "dueDate": "2020-04-28 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Using Piazza",
+            "dueDate": "2020-04-28 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "C++ Language Review",
+            "dueDate": "2020-04-29 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "C++ Objects (Reading Quiz)",
+            "dueDate": "2020-04-29 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Discussion: Introduce Yourself",
+            "dueDate": "2020-04-29 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Inheritance (Reading Quiz)",
+            "dueDate": "2020-04-29 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Pinewood Derby Assignment",
+            "dueDate": "2020-04-30 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Templates (Reading Quiz)",
+            "dueDate": "2020-04-30 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Discussion: C++ and object oriented programming",
+            "dueDate": "2020-05-01 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 1: C++ Review",
+            "dueDate": "2020-05-02 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lists (Reading Quiz)",
+            "dueDate": "2020-05-04 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Queues (Reading Quiz)",
+            "dueDate": "2020-05-04 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Stacks and Expressions (Reading Quiz)",
+            "dueDate": "2020-05-04 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Big O (Reading Quiz)",
+            "dueDate": "2020-05-05 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Big O More Practice",
+            "dueDate": "2020-05-05 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Discussion: Stacks, queues, and lists",
+            "dueDate": "2020-05-05 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Stacks and Palindromes",
+            "dueDate": "2020-05-05 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Stacks, Lists, and Queues Quiz",
+            "dueDate": "2020-05-05 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Discussion: Postfix notation",
+            "dueDate": "2020-05-06 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 2: Expressions",
+            "dueDate": "2020-05-06 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 2 Verification",
+            "dueDate": "2020-05-06 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Maps (Reading Quiz)",
+            "dueDate": "2020-05-07 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Sets and Big O (Reading Quiz)",
+            "dueDate": "2020-05-07 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Basic Data Structures",
+            "dueDate": "2020-05-08 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Discussion: Using Maps",
+            "dueDate": "2020-05-08 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Maps Learning Activity",
+            "dueDate": "2020-05-08 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Sets and Maps Learning Activity",
+            "dueDate": "2020-05-08 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Survey #2",
+            "dueDate": "2020-05-08 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 3: Maps",
+            "dueDate": "2020-05-09 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Recursion (Reading Quiz)",
+            "dueDate": "2020-05-11 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Recursion and Boggle",
+            "dueDate": "2020-05-12 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Recursive Search (Reading Quiz)",
+            "dueDate": "2020-05-12 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Binary Search",
+            "dueDate": "2020-05-13 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Recursion Quiz",
+            "dueDate": "2020-05-13 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Recursive Search Tutorial",
+            "dueDate": "2020-05-13 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Discussion: Why recursion?",
+            "dueDate": "2020-05-15 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 4 Verification",
+            "dueDate": "2020-05-16 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 4: Maze",
+            "dueDate": "2020-05-16 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Bubble Sort, Selection Sort, and Insertion Sort (Reading Quiz)",
+            "dueDate": "2020-05-18 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Merge Sort (Reading Quiz)",
+            "dueDate": "2020-05-18 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Selection Sort",
+            "dueDate": "2020-05-18 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Quicksort (Reading Quiz)",
+            "dueDate": "2020-05-19 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Sorting Homework",
+            "dueDate": "2020-05-19 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Discussion: Which Sort?",
+            "dueDate": "2020-05-20 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 5 Verification",
+            "dueDate": "2020-05-20 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 5: Sorting",
+            "dueDate": "2020-05-20 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Survey #3",
+            "dueDate": "2020-05-21 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Midterm (Spring 2020)",
+            "dueDate": "2020-05-23 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Linked List (Reading Quiz)",
+            "dueDate": "2020-05-26 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Linked List Introduction",
+            "dueDate": "2020-05-26 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Exceptions",
+            "dueDate": "2020-05-27 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Valgrind (Reading Quiz)",
+            "dueDate": "2020-05-27 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Binary Tree Introduction (Reading Quiz)",
+            "dueDate": "2020-05-29 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Binary Tree Traversal (Reading Quiz)",
+            "dueDate": "2020-05-29 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Discussion: Linked List efficiency",
+            "dueDate": "2020-05-29 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 6 Verification",
+            "dueDate": "2020-05-30 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 6: Linked List",
+            "dueDate": "2020-05-30 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "BST Modifications (Reading Quiz)",
+            "dueDate": "2020-06-01 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Modifying Binary Trees",
+            "dueDate": "2020-06-01 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Big Oh for Binary Trees",
+            "dueDate": "2020-06-02 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "BSTs and Big O (Reading Quiz)",
+            "dueDate": "2020-06-02 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Tree Homework",
+            "dueDate": "2020-06-02 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Discussion: Binary Trees",
+            "dueDate": "2020-06-03 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 7 Verification",
+            "dueDate": "2020-06-03 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 7: BST",
+            "dueDate": "2020-06-03 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "AVL Add/Remove (Reading Quiz)",
+            "dueDate": "2020-06-04 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "AVL Intro (Reading Quiz)",
+            "dueDate": "2020-06-04 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "AVL Rotations (Reading Quiz)",
+            "dueDate": "2020-06-04 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Discussion: Self Balancing Trees",
+            "dueDate": "2020-06-04 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "AVL Homework Quiz",
+            "dueDate": "2020-06-05 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "AVL Rotations Tutorial",
+            "dueDate": "2020-06-05 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Discussion: AVL Trees and you",
+            "dueDate": "2020-06-05 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 8 Verification",
+            "dueDate": "2020-06-06 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 8: AVL Trees",
+            "dueDate": "2020-06-06 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Hashing Homework",
+            "dueDate": "2020-06-08 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Hashing Intro (Reading Quiz)",
+            "dueDate": "2020-06-08 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Linear Probing",
+            "dueDate": "2020-06-09 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Discussion: Hashes and Maps",
+            "dueDate": "2020-06-10 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Hashing Quiz",
+            "dueDate": "2020-06-10 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Lab 9: Hash Map",
+            "dueDate": "2020-06-10 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Heap tutorial",
+            "dueDate": "2020-06-11 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Heapsort (Reading Quiz)",
+            "dueDate": "2020-06-11 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Survey #4",
+            "dueDate": "2020-06-11 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Heap Homework",
+            "dueDate": "2020-06-13 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Heaps (Reading Quiz)",
+            "dueDate": "2020-06-13 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Interview Questions",
+            "dueDate": "2020-06-15 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Final (Spring 2020)",
+            "dueDate": "2020-06-18 23:59:00",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Assignments",
+            "dueDate": "",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Assigned Labs",
+            "dueDate": "",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Midterm Exam",
+            "dueDate": "",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Final Exam",
+            "dueDate": "",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Imported Assignments",
+            "dueDate": "",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Total",
+            "dueDate": "",
+            "submit": "No data",
+            "score": "No data",
+            "gradePercent": "No data"
+          }
+        ]
+      },
+      {
+        "className": "REL A 250 (005)  - Section 005",
+        "assignments": [
+          {
+            "title": "CD May 6",
+            "dueDate": "2020-05-06 09:55:00",
+            "submit": "Completed",
+            "score": "100.0/100.0\n100%",
+            "gradePercent": "0.8% / 0.8%"
+          },
+          {
+            "title": "CD May 11",
+            "dueDate": "2020-05-11 09:55:00",
+            "submit": "Completed",
+            "score": "100.0/100.0\n100%",
+            "gradePercent": "0.8% / 0.8%"
+          },
+          {
+            "title": "CD May 13",
+            "dueDate": "2020-05-13 09:55:00",
+            "submit": "Completed",
+            "score": "100.0/100.0\n100%",
+            "gradePercent": "0.8% / 0.8%"
+          },
+          {
+            "title": "CD May 18",
+            "dueDate": "2020-05-18 09:55:00",
+            "submit": "Completed",
+            "score": "100.0/100.0\n100%",
+            "gradePercent": "0.8% / 0.8%"
+          },
+          {
+            "title": "CD May 20",
+            "dueDate": "2020-05-20 09:55:00",
+            "submit": "Completed",
+            "score": "/100.0",
+            "gradePercent": "0% / 0.8%"
+          },
+          {
+            "title": "CD May 27",
+            "dueDate": "2020-05-27 09:55:00",
+            "submit": "Opens May 25",
+            "score": "/100.0",
+            "gradePercent": "0% / 0.8%"
+          },
+          {
+            "title": "Mini Exam #1",
+            "dueDate": "2020-05-11 23:59:00",
+            "submit": "Completed",
+            "score": "48.0/50.0\n96%",
+            "gradePercent": "21.1% / 22.0%"
+          },
+          {
+            "title": "Midterm Exam 2",
+            "dueDate": "2020-05-26 23:59:00",
+            "submit": "No data",
+            "score": "/75.0",
+            "gradePercent": "0% / 33%"
+          },
+          {
+            "title": "Att May 6",
+            "dueDate": "2020-05-06 13:10:00",
+            "submit": "Completed",
+            "score": "5.0/5.0",
+            "gradePercent": "0.9% / 0.9%"
+          },
+          {
+            "title": "Att. May 11",
+            "dueDate": "2020-05-11 13:10:00",
+            "submit": "Completed",
+            "score": "5.0/5.0",
+            "gradePercent": "0.9% / 0.9%"
+          },
+          {
+            "title": "Att. May 13",
+            "dueDate": "2020-05-13 13:10:00",
+            "submit": "Completed",
+            "score": "5.0/5.0",
+            "gradePercent": "0.9% / 0.9%"
+          },
+          {
+            "title": "Att May 18",
+            "dueDate": "2020-05-18 13:10:00",
+            "submit": "Completed",
+            "score": "5.0/5.0",
+            "gradePercent": "0.9% / 0.9%"
+          },
+          {
+            "title": "Att. May 20",
+            "dueDate": "2020-05-20 13:10:00",
+            "submit": "Completed",
+            "score": "5.0/5.0",
+            "gradePercent": "0.9% / 0.9%"
+          },
+          {
+            "title": "Att. May 27",
+            "dueDate": "2020-05-27 13:10:00",
+            "submit": "Opens May 27",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.9%"
+          },
+          {
+            "title": "Att. June 1",
+            "dueDate": "2020-06-01 13:10:00",
+            "submit": "Opens Jun 1",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.9%"
+          },
+          {
+            "title": "Att. June 3",
+            "dueDate": "2020-06-03 13:10:00",
+            "submit": "Opens Jun 3",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.9%"
+          },
+          {
+            "title": "Att June 8",
+            "dueDate": "2020-06-08 13:10:00",
+            "submit": "Opens Jun 8",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.9%"
+          },
+          {
+            "title": "Att. June 10",
+            "dueDate": "2020-06-10 13:10:00",
+            "submit": "Opens Jun 10",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.9%"
+          },
+          {
+            "title": "Att June 15",
+            "dueDate": "2020-06-15 13:10:00",
+            "submit": "Opens Jun 15",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.9%"
+          },
+          {
+            "title": "Self and Class Evaluations",
+            "dueDate": "2020-06-15 23:55:00",
+            "submit": "Opens Jun 11",
+            "score": "/15",
+            "gradePercent": "0% / 5%"
+          },
+          {
+            "title": "Quiz #1",
+            "dueDate": "2020-05-06 21:55:00",
+            "submit": "Completed",
+            "score": "10/10\n100%",
+            "gradePercent": "3.3% / 3.3%"
+          },
+          {
+            "title": "Quiz #2",
+            "dueDate": "2020-05-12 23:59:00",
+            "submit": "Completed",
+            "score": "10/10\n100%",
+            "gradePercent": "3.3% / 3.3%"
+          },
+          {
+            "title": "Quiz #3c",
+            "dueDate": "2020-05-20 09:55:00",
+            "submit": "Completed",
+            "score": "10/10\n100%",
+            "gradePercent": "3.3% / 3.3%"
+          },
+          {
+            "title": "SMART Proposal",
+            "dueDate": "2020-05-09 23:59:00",
+            "submit": "No data",
+            "score": "15.0/15.0\n100%",
+            "gradePercent": "2% / 2%"
+          },
+          {
+            "title": "Week 3 SMART Progress score",
+            "dueDate": "2020-05-16 23:59:00",
+            "submit": "Completed",
+            "score": "9.0/9.0\n100%",
+            "gradePercent": "1.2% / 1.2%"
+          },
+          {
+            "title": "Week 4 SMART Progress Score",
+            "dueDate": "2020-05-23 23:59:00",
+            "submit": "Completed",
+            "score": "/9.0",
+            "gradePercent": "0% / 1.2%"
+          },
+          {
+            "title": "Week 6 SMART Progress score",
+            "dueDate": "2020-06-06 23:59:00",
+            "submit": "Opens May 31",
+            "score": "/9.0",
+            "gradePercent": "0% / 1.2%"
+          },
+          {
+            "title": "SMART Project Final Report Tangible Product Due",
+            "dueDate": "2020-06-13 23:59:00",
+            "submit": "No data",
+            "score": "/33.0",
+            "gradePercent": "0% / 4.4%"
+          },
+          {
+            "title": "Introduction to Sis. Strathearn",
+            "dueDate": "2020-05-06 09:55:00",
+            "submit": "No data",
+            "score": "5.0/5.0",
+            "gradePercent": "1.7% / 1.7%"
+          },
+          {
+            "title": "Me in 30 Seconds",
+            "dueDate": "2020-05-06 23:59:00",
+            "submit": "No data",
+            "score": "5.0/5.0",
+            "gradePercent": "1.7% / 1.7%"
+          },
+          {
+            "title": "Introduction to Messianic Expectation",
+            "dueDate": "2020-05-06 09:55:00",
+            "submit": "No data",
+            "score": "5.0/5.0",
+            "gradePercent": "1.7% / 1.7%"
+          }
+        ]
+      },
+      {
+        "className": "SPAN 206 (001)  - Intensive Span Skills Develop",
+        "assignments": [
+          {
+            "title": "Vocabulario 1",
+            "dueDate": "2020-05-11 23:59:00",
+            "submit": "Completed",
+            "score": "10.0/10.0",
+            "gradePercent": "0.3% / 0.3%"
+          },
+          {
+            "title": "Vocabulario 2",
+            "dueDate": "2020-05-11 23:59:00",
+            "submit": "Completed",
+            "score": "10.0/10.0",
+            "gradePercent": "0.3% / 0.3%"
+          },
+          {
+            "title": "Refranes y acontecimientos actuales 1",
+            "dueDate": "2020-05-11 23:59:00",
+            "submit": "Completed",
+            "score": "8.8/10.0",
+            "gradePercent": "0.3% / 0.3%"
+          },
+          {
+            "title": "Lectura 1",
+            "dueDate": "2020-05-11 23:59:00",
+            "submit": "Completed",
+            "score": "10.0/10.0",
+            "gradePercent": "0.3% / 0.3%"
+          },
+          {
+            "title": "Trampas de la lengua y Estructuras 1",
+            "dueDate": "2020-05-11 23:59:00",
+            "submit": "Completed",
+            "score": "10.0/10.0",
+            "gradePercent": "0.3% / 0.3%"
+          },
+          {
+            "title": "Vocabulario 3",
+            "dueDate": "2020-05-16 23:59:00",
+            "submit": "Completed",
+            "score": "10.0/10.0",
+            "gradePercent": "0.3% / 0.3%"
+          },
+          {
+            "title": "Refranes y acontecimientos actuales 2",
+            "dueDate": "2020-05-16 23:59:00",
+            "submit": "Completed",
+            "score": "10.0/10.0",
+            "gradePercent": "0.3% / 0.3%"
+          },
+          {
+            "title": "Refranes y acontecimientos actuales 3",
+            "dueDate": "2020-05-16 23:59:00",
+            "submit": "Completed",
+            "score": "9.0/10.0",
+            "gradePercent": "0.3% / 0.3%"
+          },
+          {
+            "title": "Lectura 2",
+            "dueDate": "2020-05-16 23:59:00",
+            "submit": "Completed",
+            "score": "10.0/10.0",
+            "gradePercent": "0.3% / 0.3%"
+          },
+          {
+            "title": "Lectura 3",
+            "dueDate": "2020-05-16 23:59:00",
+            "submit": "Completed",
+            "score": "10.0/10.0",
+            "gradePercent": "0.3% / 0.3%"
+          },
+          {
+            "title": "Trampas de la lengua y Estructuras 2",
+            "dueDate": "2020-05-16 23:59:00",
+            "submit": "Completed",
+            "score": "9.0/10.0",
+            "gradePercent": "0.3% / 0.3%"
+          },
+          {
+            "title": "Trampas de la lengua y Estructuras 3",
+            "dueDate": "2020-05-20 23:59:00",
+            "submit": "Completed",
+            "score": "10.0/10.0",
+            "gradePercent": "0.3% / 0.3%"
+          },
+          {
+            "title": "Vocabulario 4",
+            "dueDate": "2020-05-27 23:59:00",
+            "submit": "Completed",
+            "score": "6.0/10.0",
+            "gradePercent": "0.2% / 0.3%"
+          },
+          {
+            "title": "Refranes y acontecimientos actuales 4",
+            "dueDate": "2020-05-27 23:59:00",
+            "submit": "No data",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Lectura 4",
+            "dueDate": "2020-05-27 23:59:00",
+            "submit": "No data",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Trampas de la lengua y Estructuras 4",
+            "dueDate": "2020-05-27 23:59:00",
+            "submit": "No data",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Vocabulario 5",
+            "dueDate": "2020-06-05 23:59:00",
+            "submit": "Opens May 28",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Refranes y acontecimientos actuales 5",
+            "dueDate": "2020-06-05 23:59:00",
+            "submit": "Opens May 28",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Lectura 5",
+            "dueDate": "2020-06-05 23:59:00",
+            "submit": "Opens May 28",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Trampas de la lengua y Estructuras 5",
+            "dueDate": "2020-06-05 23:59:00",
+            "submit": "Opens May 28",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Vocabulario 6",
+            "dueDate": "2020-06-06 23:59:00",
+            "submit": "Opens Jun 2",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Refranes 6",
+            "dueDate": "2020-06-06 23:59:00",
+            "submit": "Opens Jun 2",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Trampas de la lengua y Estructuras 6",
+            "dueDate": "2020-06-06 23:59:00",
+            "submit": "Opens Jun 2",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Vocabulario 7",
+            "dueDate": "2020-06-13 23:59:00",
+            "submit": "Opens Jun 8",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Refranes 7",
+            "dueDate": "2020-06-13 23:59:00",
+            "submit": "Opens Jun 8",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Lectura 7",
+            "dueDate": "2020-06-13 23:59:00",
+            "submit": "Opens Jun 8",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Trampas de la lengua y Estructuras 7",
+            "dueDate": "2020-06-13 23:59:00",
+            "submit": "Opens Jun 8",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Vocabulario 8",
+            "dueDate": "2020-06-16 23:59:00",
+            "submit": "Opens Jun 12",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Refranes 8",
+            "dueDate": "2020-06-16 23:59:00",
+            "submit": "Opens Jun 12",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Trampas de la lengua y Estructuras 8",
+            "dueDate": "2020-06-16 23:59:00",
+            "submit": "Opens Jun 12",
+            "score": "/10.0",
+            "gradePercent": "0% / 0.3%"
+          },
+          {
+            "title": "Examen oral 1",
+            "dueDate": "2020-04-28 23:59:00",
+            "submit": "No data",
+            "score": "10/10",
+            "gradePercent": "1.3% / 1.3%"
+          },
+          {
+            "title": "Examen 1 ",
+            "dueDate": "2020-05-13 23:59:00",
+            "submit": "Completed",
+            "score": "179/202",
+            "gradePercent": "5.7% / 6.5%"
+          },
+          {
+            "title": "Examen oral 2",
+            "dueDate": "2020-05-21 23:59:00",
+            "submit": "No data",
+            "score": "47/50",
+            "gradePercent": "3.0% / 3.2%"
+          },
+          {
+            "title": "Examen 2",
+            "dueDate": "2020-05-29 23:59:00",
+            "submit": "Opens May 26",
+            "score": "/200",
+            "gradePercent": "0% / 6.5%"
+          },
+          {
+            "title": "Exam 3 - Span 206 (Cap. 5-6)",
+            "dueDate": "2020-06-09 23:59:00",
+            "submit": "Opens Jun 6",
+            "score": "/200",
+            "gradePercent": "0% / 6.5%"
+          },
+          {
+            "title": "Examen oral 3 (final)",
+            "dueDate": "2020-06-15 23:59:00",
+            "submit": "No data",
+            "score": "/70",
+            "gradePercent": "0% / 3.2%"
+          },
+          {
+            "title": "SPAN 206 Examen Final",
+            "dueDate": "2020-06-18 23:59:00",
+            "submit": "Opens Jun 15",
+            "score": "/200",
+            "gradePercent": "0% / 12.9%"
+          },
+          {
+            "title": "Composición, cap. 2 (1)",
+            "dueDate": "2020-05-08 14:50:00",
+            "submit": "No data",
+            "score": "20/20",
+            "gradePercent": "0.9% / 0.9%"
+          },
+          {
+            "title": "Hora de conversación 1",
+            "dueDate": "2020-05-09 23:59:00",
+            "submit": "No data",
+            "score": "20/20",
+            "gradePercent": "1.6% / 1.6%"
+          },
+          {
+            "title": "Composición, cap. 2 (2)",
+            "dueDate": "2020-05-14 14:50:00",
+            "submit": "No data",
+            "score": "20/20",
+            "gradePercent": "0.9% / 0.9%"
+          },
+          {
+            "title": "Composición, cap. 4 (1)",
+            "dueDate": "2020-05-21 14:50:00",
+            "submit": "No data",
+            "score": "/20",
+            "gradePercent": "0% / 0.9%"
+          },
+          {
+            "title": "Hora de conversación 2 ",
+            "dueDate": "2020-05-21 23:59:00",
+            "submit": "No data",
+            "score": "/20",
+            "gradePercent": "0% / 1.6%"
+          },
+          {
+            "title": "Composición, cap. 4 (2)",
+            "dueDate": "2020-05-29 14:50:00",
+            "submit": "No data",
+            "score": "/20",
+            "gradePercent": "0% / 0.9%"
+          },
+          {
+            "title": "Composición, cap. 6 (1)",
+            "dueDate": "2020-06-03 14:50:00",
+            "submit": "No data",
+            "score": "",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Composición, cap. 6 (2)",
+            "dueDate": "2020-06-09 23:59:00",
+            "submit": "No data",
+            "score": "",
+            "gradePercent": "No data"
+          },
+          {
+            "title": "Composición final (cap. 8)",
+            "dueDate": "2020-06-15 14:59:00",
+            "submit": "No data",
+            "score": "/40",
+            "gradePercent": "0% / 1.6%"
+          },
+          {
+            "title": "Hora de conversación 3",
+            "dueDate": "2020-06-15 23:59:00",
+            "submit": "No data",
+            "score": "/20",
+            "gradePercent": "0% / 1.6%"
+          },
+          {
+            "title": "Entrevista, cap. 1",
+            "dueDate": "2020-05-09 14:50:00",
+            "submit": "No data",
+            "score": "20.0/20.0",
+            "gradePercent": "1.3% / 1.3%"
+          },
+          {
+            "title": "Actividad cultural 1",
+            "dueDate": "2020-05-09 23:59:00",
+            "submit": "No data",
+            "score": "20.0/20.0",
+            "gradePercent": "1.3% / 1.3%"
+          },
+          {
+            "title": "Entrevista, cap. 3",
+            "dueDate": "2020-05-15 14:50:00",
+            "submit": "No data",
+            "score": "20.0/20.0",
+            "gradePercent": "1.3% / 1.3%"
+          },
+          {
+            "title": "Actividad cultural 2",
+            "dueDate": "2020-05-21 23:59:00",
+            "submit": "No data",
+            "score": "/20.0",
+            "gradePercent": "0% / 1.3%"
+          },
+          {
+            "title": "Entrevista, cap. 5",
+            "dueDate": "2020-05-28 14:50:00",
+            "submit": "No data",
+            "score": "/20.0",
+            "gradePercent": "0% / 1.3%"
+          },
+          {
+            "title": "Actividad cultural 3",
+            "dueDate": "2020-06-05 23:59:00",
+            "submit": "No data",
+            "score": "/20.0",
+            "gradePercent": "0% / 1.3%"
+          },
+          {
+            "title": "Entrevista, cap. 7",
+            "dueDate": "2020-06-10 14:50:00",
+            "submit": "No data",
+            "score": "/20.0",
+            "gradePercent": "0% / 1.3%"
+          },
+          {
+            "title": "Portafolio cultural (final)",
+            "dueDate": "2020-06-12 23:59:00",
+            "submit": "No data",
+            "score": "/100.0",
+            "gradePercent": "0% / 1.3%"
+          },
+          {
+            "title": "1. Los aspectos negativos de los estereotipos",
+            "dueDate": "2020-05-11 23:59:00",
+            "submit": "No data",
+            "score": "10.0/10.0",
+            "gradePercent": "1.3% / 1.3%"
+          },
+          {
+            "title": "2. Nuevos conceptos acerca de la familia",
+            "dueDate": "2020-05-11 23:59:00",
+            "submit": "No data",
+            "score": "10.0/10.0",
+            "gradePercent": "1.3% / 1.3%"
+          },
+          {
+            "title": "3. La contaminación y el medio ambiente",
+            "dueDate": "2020-05-13 23:59:00",
+            "submit": "No data",
+            "score": "10.0/10.0",
+            "gradePercent": "1.3% / 1.3%"
+          },
+          {
+            "title": "4. La inmigración hispana",
+            "dueDate": "2020-05-27 23:59:00",
+            "submit": "No data",
+            "score": "10.0/10.0",
+            "gradePercent": "1.3% / 1.3%"
+          },
+          {
+            "title": "5. Los derechos humanos",
+            "dueDate": "2020-06-01 23:59:00",
+            "submit": "No data",
+            "score": "/10.0",
+            "gradePercent": "0% / 1.3%"
+          },
+          {
+            "title": "6. La era digital",
+            "dueDate": "2020-06-05 23:59:00",
+            "submit": "No data",
+            "score": "/10.0",
+            "gradePercent": "0% / 1.3%"
+          },
+          {
+            "title": "7. La alimentación y la salud",
+            "dueDate": "2020-06-11 23:59:00",
+            "submit": "No data",
+            "score": "/10.0",
+            "gradePercent": "0% / 1.3%"
+          },
+          {
+            "title": "8. ¿Qué es cultura?",
+            "dueDate": "2020-06-16 23:59:00",
+            "submit": "No data",
+            "score": "/10.0",
+            "gradePercent": "0% / 1.3%"
+          },
+          {
+            "title": "Asistencia y participación (COPA)",
+            "dueDate": "2020-06-15 23:59:00",
+            "submit": "No data",
+            "score": "/140.0",
+            "gradePercent": "0% / 10%"
+          },
+          {
+            "title": "Tarea 1",
+            "dueDate": "2020-04-28 23:59:00",
+            "submit": "No data",
+            "score": "5.0/5.0",
+            "gradePercent": "0.4% / 0.4%"
+          },
+          {
+            "title": "Tarea 2",
+            "dueDate": "2020-04-29 23:59:00",
+            "submit": "No data",
+            "score": "5.0/5.0",
+            "gradePercent": "0.4% / 0.4%"
+          },
+          {
+            "title": "Tarea 3",
+            "dueDate": "2020-05-01 23:59:00",
+            "submit": "No data",
+            "score": "5.0/5.0",
+            "gradePercent": "0.4% / 0.4%"
+          },
+          {
+            "title": "Tarea 4",
+            "dueDate": "2020-05-05 23:59:00",
+            "submit": "No data",
+            "score": "5.0/5.0",
+            "gradePercent": "0.4% / 0.4%"
+          },
+          {
+            "title": "Tarea 5",
+            "dueDate": "2020-05-06 23:59:00",
+            "submit": "No data",
+            "score": "5.0/5.0",
+            "gradePercent": "0.4% / 0.4%"
+          },
+          {
+            "title": "Tarea 6",
+            "dueDate": "2020-05-11 23:59:00",
+            "submit": "No data",
+            "score": "5.0/5.0",
+            "gradePercent": "0.4% / 0.4%"
+          },
+          {
+            "title": "Tarea 7",
+            "dueDate": "2020-05-13 23:59:00",
+            "submit": "No data",
+            "score": "5.0/5.0",
+            "gradePercent": "0.4% / 0.4%"
+          },
+          {
+            "title": "Tarea 8",
+            "dueDate": "2020-05-15 23:59:00",
+            "submit": "No data",
+            "score": "5.0/5.0",
+            "gradePercent": "0.4% / 0.4%"
+          },
+          {
+            "title": "Tarea 9",
+            "dueDate": "2020-05-18 23:59:00",
+            "submit": "No data",
+            "score": "5.0/5.0",
+            "gradePercent": "0.4% / 0.4%"
+          },
+          {
+            "title": "Tarea 10",
+            "dueDate": "2020-05-19 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 11",
+            "dueDate": "2020-05-20 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 12",
+            "dueDate": "2020-05-26 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 13",
+            "dueDate": "2020-05-27 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 14",
+            "dueDate": "2020-05-28 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 15",
+            "dueDate": "2020-05-29 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 16",
+            "dueDate": "2020-06-02 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 17",
+            "dueDate": "2020-06-03 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 18",
+            "dueDate": "2020-06-04 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 19",
+            "dueDate": "2020-06-08 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 20",
+            "dueDate": "2020-06-09 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 21",
+            "dueDate": "2020-06-10 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 22",
+            "dueDate": "2020-06-11 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 23",
+            "dueDate": "2020-06-12 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          },
+          {
+            "title": "Tarea 24",
+            "dueDate": "2020-06-15 23:59:00",
+            "submit": "No data",
+            "score": "/5.0",
+            "gradePercent": "0% / 0.4%"
+          }
+        ]
+      }
+    ]
+  }
+]
