@@ -35,7 +35,7 @@ def myconverter(o):
 op = webdriver.ChromeOptions()
 #op.add_argument('headless')
 
-driver = webdriver.Chrome("C://Users//craz0//Downloads//chromedriver_win32//chromedriver.exe", options=op)
+driver = webdriver.Chrome("C:\\Users\\MaxwellSmith\\Downloads\\chromedriver_win32\\chromedriver.exe", options=op)
 
 URL = "https://cas.byu.edu/cas/login?service=https%3A%2F%2Flearningsuite.byu.edu%2F"
 class LSAssignment:
