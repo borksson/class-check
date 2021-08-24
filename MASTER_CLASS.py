@@ -173,7 +173,9 @@ def classesToJSON(classList):
 
 
 #Login
-LS_login("ms973", "password")
+with open('BYUCredentials.csv','r') as creds:
+	creds = creds.read().split(',')
+	LS_login(creds[0], creds[1])
 #Get classes
 classList = getClasses()
 #Scrape for assignments
