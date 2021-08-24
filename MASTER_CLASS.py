@@ -77,9 +77,11 @@ def LS_login(username, password, passcode=None):
 		driver.find_element_by_name("passcode").send_keys(passcode)
 		driver.find_element_by_id("passcode").click()
 	else:
+		time.sleep(5)
 		driver.find_element_by_xpath("/html/body/div/div/div[1]/div/form/div[1]/fieldset/div[1]/button").click()
-	element = WebDriverWait(driver, 100).until(
-        EC.presence_of_element_located((By.ID, "current")))
+	element = WebDriverWait(driver, 10).until(
+        #FIXME: no id of this type
+        EC.presence_of_element_located((By.ID, "MathJax_Message")))
 	driver.switch_to.default_content()
 	print("Logged in.")
 
@@ -87,7 +89,7 @@ def getClasses():
 	classList = []
 	print("Getting classes...")
 	content = driver.page_source
-	soup = BeautifulSoup(content, features="html5lib")
+	soup = BeautifulSoup(content)
 	classes = soup.find_all("a", class_="course-title")
 	for Class in classes:
 		xpath = xpath_soup(Class)
