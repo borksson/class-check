@@ -89,7 +89,7 @@ def getClasses():
 	classList = []
 	print("Getting classes...")
 	content = driver.page_source
-	soup = BeautifulSoup(content)
+	soup = BeautifulSoup(content, features="html.parser")
 	classes = soup.find_all("a", class_="course-title")
 	for Class in classes:
 		xpath = xpath_soup(Class)
@@ -178,6 +178,8 @@ def classesToJSON(classList):
 with open('BYUCredentials.csv','r') as creds:
 	creds = creds.read().split(',')
 	LS_login(creds[0], creds[1])
+#Switch to future classes for testing
+driver.find_element_by_xpath("/html/body/div[2]/div[2]/div/main/div/div/div[1]/ul/li[2]").click()
 #Get classes
 classList = getClasses()
 #Scrape for assignments
@@ -185,7 +187,8 @@ print("Scrapping classes...")
 for Class in classList:
 	scrapeClass(Class)
 	print("Classes scraped.")
-driver.quit()
+#closes window
+#driver.quit()
 #Convert to json
 print("Writing to JSON...")
 with open("dataFile.json", "w") as f:
