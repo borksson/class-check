@@ -80,7 +80,7 @@ def LS_login(username, password, passcode=None):
 		driver.find_element_by_name("passcode").send_keys(passcode)
 		driver.find_element_by_id("passcode").click()
 	else:
-		time.sleep(5)
+		time.sleep(3)
 		driver.find_element_by_xpath("/html/body/div/div/div[1]/div/form/div[1]/fieldset/div[1]/button").click()
 	element = WebDriverWait(driver, 10).until(
         #FIXME: no id of this type
@@ -90,14 +90,10 @@ def LS_login(username, password, passcode=None):
 
 def getClasses():
 	classList = []
-	print("Getting classes...")
+	driver.find_element_by_xpath("/html/body/div[2]/div[2]/div/main/div/div/div[1]/ul/li[2]").click()
+	time.sleep(2)
 	content = driver.page_source
-	soup = BeautifulSoup(content, features="html.parser")
-	classes = soup.find_all("a", class_="course-title")
-	for Class in classes:
-		xpath = xpath_soup(Class)
-		classList.append(LSClass(Class.contents[0].strip(), xpath))
-	print("Classes got: ", [i.name for i in classList])
+	print(content)
 	return classList
 
 def scrapeClass(LSClass):
@@ -182,7 +178,6 @@ with open('BYUCredentials.csv','r') as creds:
 	creds = creds.read().split(',')
 	LS_login(creds[0], creds[1])
 #Switch to future classes for testing
-driver.find_element_by_xpath("/html/body/div[2]/div[2]/div/main/div/div/div[1]/ul/li[2]").click()
 #Get classes
 classList = getClasses()
 #Scrape for assignments
